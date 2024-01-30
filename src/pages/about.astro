@@ -1,5 +1,5 @@
 ---
-import Navigation from '@components/Navigation.astro';
+import BaseLayout from '@layouts/BaseLayout.astro';
 import '../styles/global.css';
 const identity = {
   firstName: 'Paweł',
@@ -10,35 +10,13 @@ const identity = {
 };
 
 const pageTitle = `About ${identity.firstName} ${identity.lastName}`;
-const skillColor = 'tomato';
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>{pageTitle}</title>
-    <style define:vars={{ skillColor }}>
-      .skill {
-        background-color: var(--skillColor);
-        color: whitesmoke;
-        padding: 6px 12px;
-        margin-bottom: 1rem;
-        border-radius: 12px;
-        width: fit-content;
-      }
-    </style>
-  </head>
-  <body>
-    <Navigation />
-    <h1>{pageTitle}</h1>
-    <p>
-      Paweł is a writer who lives in Krakow, Poland. He works in technical
-      communication, but writing remains his true calling.
-    </p>
-    <p>{identity.firstName}'s skills are:</p>
-    <ul>{identity.skills.map((skill) => <li class="skill">{skill}</li>)}</ul>
-  </body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+  <p>
+    Paweł is a writer who lives in Krakow, Poland. He works in technical
+    communication, but writing remains his true calling.
+  </p>
+  <p>{identity.firstName}'s skills are:</p>
+  <ul>{identity.skills.map((skill) => <li class="skill">{skill}</li>)}</ul>
+</BaseLayout>

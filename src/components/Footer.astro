@@ -6,14 +6,23 @@ const links = [
   },
 ];
 
-import FooterLink from '@components/FooterLink';
+import FooterLink from '@components/FooterLink.astro';
 ---
+
+<style>
+  footer {
+    display: flex;
+    gap: 1rem;
+    margin-top: 6rem;
+  }
+</style>
 
 <footer>
   <div>
     <p>
       This repo on <a href="https://github.com/pensjonatus/pensjonatus"
-        >GitHub</a>
+        >GitHub</a
+      >
     </p>
     {links.map((linkProps) => <FooterLink {...linkProps} />)}
   </div>
