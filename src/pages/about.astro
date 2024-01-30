@@ -1,5 +1,15 @@
 ---
-const pageTitle = 'About Paweł Kowaluk';
+import '../styles/global.css';
+const identity = {
+  firstName: 'Paweł',
+  lastName: 'Kowaluk',
+  occupation: 'Technical Writer',
+  hobbies: ['building Astro sites'],
+  skills: ['React.js', 'Typescript', 'DITA'],
+};
+
+const pageTitle = `About ${identity.firstName} ${identity.lastName}`;
+const skillColor = 'tomato';
 ---
 
 <html lang="en">
@@ -9,6 +19,16 @@ const pageTitle = 'About Paweł Kowaluk';
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
+    <style define:vars={{ skillColor }}>
+      .skill {
+        background-color: var(--skillColor);
+        color: whitesmoke;
+        padding: 6px 12px;
+        margin-bottom: 1rem;
+        border-radius: 12px;
+        width: fit-content;
+      }
+    </style>
   </head>
   <body>
     <a href="/">Home</a>
@@ -19,5 +39,7 @@ const pageTitle = 'About Paweł Kowaluk';
       Paweł is a writer who lives in Krakow, Poland. He works in technical
       communication, but writing remains his true calling.
     </p>
+    <p>{identity.firstName}'s skills are:</p>
+    <ul>{identity.skills.map((skill) => <li class="skill">{skill}</li>)}</ul>
   </body>
 </html>
