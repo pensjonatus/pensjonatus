@@ -2,5 +2,5 @@
   "[astro]": {
     "editor.defaultFormatter": "astro-build.astro-vscode"
   },
-  "cSpell.words": ["pensjonatus"]
+  "cSpell.words": ["astro", "pensjonatus"]
 }

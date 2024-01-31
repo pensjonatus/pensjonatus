@@ -4,26 +4,15 @@ const links = [
     href: 'https://www.linkedin.com/in/pawel-kowaluk/',
     label: 'Linkedin',
   },
+  {
+    href: 'https://github.com/pensjonatus/pensjonatus',
+    label: 'This repo on GitHub',
+  },
 ];
 
 import FooterLink from '@components/FooterLink.astro';
 ---
 
-<style>
-  footer {
-    display: flex;
-    gap: 1rem;
-    margin-top: 6rem;
-  }
-</style>
-
 <footer>
-  <div>
-    <p>
-      This repo on <a href="https://github.com/pensjonatus/pensjonatus"
-        >GitHub</a
-      >
-    </p>
-    {links.map((linkProps) => <FooterLink {...linkProps} />)}
-  </div>
+  {links.map((linkProps) => <FooterLink {...linkProps} />)}
 </footer>

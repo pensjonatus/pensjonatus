@@ -1,0 +1,38 @@
+---
+import FormattedDate from '@components/FormattedDate.astro';
+import BaseLayout from './BaseLayout.astro';
+
+const { frontmatter } = Astro.props;
+---
+
+<style>
+  .meta {
+    display: flex;
+    gap: 1rem;
+    font-style: italic;
+    font-size: 90%;
+  }
+
+  .description {
+    border-left: 3px solid gray;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+</style>
+
+<BaseLayout pageTitle={frontmatter.title}>
+  <div class="meta">
+    <span>Written by {frontmatter.author}</span>
+    <FormattedDate dateString={frontmatter.pubDate} />
+  </div>
+  {
+    frontmatter.description && (
+      <p class="description">
+        <em>{frontmatter.description}</em>
+      </p>
+    )
+  }
+  <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
+  <slot />
+</BaseLayout>

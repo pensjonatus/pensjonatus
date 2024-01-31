@@ -1,12 +1,17 @@
 ---
+import BlogPostLink from '@components/BlogPostLink.astro';
 import BaseLayout from '@layouts/BaseLayout.astro';
-import '../styles/global.css';
+const allPosts = await Astro.glob('./posts/*.md');
 ---
 
 <BaseLayout pageTitle="Blog">
   <ul>
-    <li><a href="/posts/post-1">Welcome to my blog</a></li>
-    <li><a href="/posts/post-2">Post 2</a></li>
-    <li><a href="/posts/post-3">Post 3</a></li>
+    {
+      allPosts.map((post) =>
+        post.url ? (
+          <BlogPostLink url={post.url} title={post.frontmatter.title} />
+        ) : null
+      )
+    }
   </ul>
 </BaseLayout>

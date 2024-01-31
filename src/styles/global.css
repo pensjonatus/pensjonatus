@@ -1,14 +1,19 @@
 html {
   background-color: #f1f5f9;
   font-family: sans-serif;
+  --outer-padding: 1rem;
 }
 
 body {
   margin: 0 auto;
   width: 100%;
   max-width: 80ch;
-  padding: 1rem;
   line-height: 1.5;
+}
+
+main {
+  padding: var(--outer-padding);
+  min-height: calc(100vh - 20px);
 }
 
 * {
@@ -22,6 +27,7 @@ h1 {
 
 /* nav styles */
 .hamburger {
+  padding: var(--outer-padding);
   padding-right: 20px;
   cursor: pointer;
 }
@@ -60,6 +66,22 @@ h1 {
 
 .expanded {
   display: unset;
+}
+
+footer {
+  display: flex;
+  gap: 1rem;
+  margin-top: 6rem;
+  background-color: black;
+  padding: 8px 16px;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:visited {
+  color: aliceblue;
 }
 
 @media screen and (min-width: 636px) {
