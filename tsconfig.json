@@ -7,5 +7,7 @@
       "@scripts/*": ["src/scripts/*"],
       "@layouts/*": ["src/layouts/*"],
     },
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact",
   },
 }

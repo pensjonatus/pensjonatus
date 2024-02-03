@@ -1,7 +1,24 @@
 ---
+import Greeting from '@components/Greetings';
 import BaseLayout from '@layouts/BaseLayout.astro';
 ---
 
 <BaseLayout pageTitle="Flash Fiction">
   <h2>Some section coming soon</h2>
+  <Greeting
+    client:load
+    messages={[
+      'Howdy',
+      'Hello',
+      'Hi',
+      'Hey there',
+      'Hullo',
+      'Hey',
+      'All right',
+      'Aye, aye',
+      'Aloha',
+      "'ello",
+      'Guv',
+    ]}
+  />
 </BaseLayout>

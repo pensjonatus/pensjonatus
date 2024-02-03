@@ -1,9 +1,19 @@
 ---
 import Navigation from '@components/Navigation.astro';
 import Hamburger from '@components/Hamburger.astro';
+import ThemeIcon from './ThemeIcon.astro';
 ---
 
 <header>
   <Hamburger />
   <Navigation />
+  <ThemeIcon />
 </header>
+
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: var(--outer-padding);
+  }
+</style>

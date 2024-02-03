@@ -4,6 +4,15 @@ html {
   --outer-padding: 1rem;
 }
 
+html.dark {
+  background-color: #0d0950;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+
 body {
   margin: 0 auto;
   width: 100%;
@@ -27,7 +36,6 @@ h1 {
 
 /* nav styles */
 .hamburger {
-  padding: var(--outer-padding);
   padding-right: 20px;
   cursor: pointer;
 }

@@ -2,5 +2,13 @@
   "[astro]": {
     "editor.defaultFormatter": "astro-build.astro-vscode"
   },
-  "cSpell.words": ["astro", "pensjonatus"]
+  "cSpell.words": [
+    "astro",
+    "astrojs",
+    "Kowaluk",
+    "Paweł",
+    "pensjonatus",
+    "preact",
+    "tsconfigs"
+  ]
 }
