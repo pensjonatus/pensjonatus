@@ -1,17 +1,17 @@
 ---
 import BlogPostLink from '@components/BlogPostLink.astro';
 import BaseLayout from '@layouts/BaseLayout.astro';
-const allPosts = await Astro.glob('./posts/*.md');
+import { getCollection } from 'astro:content';
+const allPosts = await getCollection('posts');
 ---
 
 <BaseLayout pageTitle="Blog">
+  <p>The blog currently contains {allPosts.length} entries.</p>
   <ul>
     {
-      allPosts.map((post) =>
-        post.url ? (
-          <BlogPostLink url={post.url} title={post.frontmatter.title} />
-        ) : null
-      )
+      allPosts.map((post) => (
+        <BlogPostLink url={`/posts/${post.slug}/`} title={post.data.title} />
+      ))
     }
   </ul>
 </BaseLayout>

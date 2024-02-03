@@ -1,11 +1,18 @@
-import rss, { pagesGlobToRssItems } from '@astrojs/rss';
+import rss from '@astrojs/rss';
+import { getCollection } from 'astro:content';
 
 export async function GET(context) {
+  const posts = await getCollection('posts');
   return rss({
     title: 'Paweł Kowaluk | Flash Fiction',
     description: 'Flash fiction, poetry, and short stories',
     site: context.site,
-    items: await pagesGlobToRssItems(import.meta.glob('./**/*.md')),
+    items: posts.map((post) => ({
+      title: post.data.title,
+      pubDate: post.data.date,
+      description: post.body.slice(0, 100),
+      link: `/posts/${post.slug}/`,
+    })),
     customData: `<language>en-us</language>`,
   });
 }
