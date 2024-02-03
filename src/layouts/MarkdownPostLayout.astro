@@ -1,6 +1,7 @@
 ---
 import FormattedDate from '@components/FormattedDate.astro';
 import BaseLayout from './BaseLayout.astro';
+import Tag from '@components/Tag.astro';
 
 const { frontmatter } = Astro.props;
 ---
@@ -27,15 +28,7 @@ const { frontmatter } = Astro.props;
   .tags {
     display: flex;
     flex-wrap: wrap;
-  }
-
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: 0.5em;
-    padding: 0.5em 1em;
-    font-size: 1.15em;
-    background-color: #f8fcfd;
+    gap: 1rem;
   }
 </style>
 
@@ -44,13 +37,7 @@ const { frontmatter } = Astro.props;
     <FormattedDate dateString={frontmatter.date} />
   </div>
   <div class="tags">
-    {
-      frontmatter.categories.map((tag: string) => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
+    {frontmatter.categories.map((tag: string) => <Tag value={tag} />)}
   </div>
   <slot />
 </BaseLayout>

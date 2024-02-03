@@ -1,12 +1,13 @@
 ---
-title: "Fashion Advice"
-date: "2017-01-28"
-categories: 
-  - "flash-fiction"
-  - "love"
+title: 'Fashion Advice'
+date: '2017-01-28'
+categories:
+  - 'flash-fiction'
+  - 'love'
 ---
 
-"If your wore a jacket once in a while, you would look more handsome," she said. They were having coffee together.
+"If your wore a jacket once in a while, you would look more handsome," she said.
+They were having coffee together.
 
 "Yeah?" he said, "Not really my style."
 
@@ -22,14 +23,19 @@ categories:
 
 "No, I'm actually... No."
 
-"You know, I never understood guys. We try to give you good advice, try to make your life better. But all you care about is your comfort zone. You think you're so macho with you t-shirts and jeans?"
+"You know, I never understood guys. We try to give you good advice, try to make
+your life better. But all you care about is your comfort zone. You think you're
+so macho with you t-shirts and jeans?"
 
 "It's just comfortable."
 
-"It used to be only children who wore these. Now grown men dress like children. They act like children."
+"It used to be only children who wore these. Now grown men dress like children.
+They act like children."
 
 "I'll uh... I'll try to do better," he said. "Would you help me pick a jacket?"
 
-"You should be able to do it yourself. My ex-boyfriend always did. He has such a great sense of style."
+"You should be able to do it yourself. My ex-boyfriend always did. He has such a
+great sense of style."
 
-A woman walked by with three children. He and she both looked at the woman, then at the children.
+A woman walked by with three children. He and she both looked at the woman, then
+at the children.

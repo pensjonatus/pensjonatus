@@ -619,6 +619,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fontsource/cormorant-garamond@npm:^5.0.8":
+  version: 5.0.8
+  resolution: "@fontsource/cormorant-garamond@npm:5.0.8"
+  checksum: 42243145f8003664ea08a242c5dc9df577e34fd6ad08e28336b86408c2a5b71b7871ee4381ccc14abff441a9b6f8796aa8f05daf997fcfa84c1494997b001aa7
+  languageName: node
+  linkType: hard
+
 "@isaacs/cliui@npm:^8.0.2":
   version: 8.0.2
   resolution: "@isaacs/cliui@npm:8.0.2"
@@ -4606,6 +4613,7 @@ __metadata:
     "@astrojs/check": "npm:^0.4.1"
     "@astrojs/preact": "npm:^3.1.0"
     "@astrojs/rss": "npm:^4.0.4"
+    "@fontsource/cormorant-garamond": "npm:^5.0.8"
     astro: "npm:^4.3.2"
     preact: "npm:^10.19.3"
     prettier: "npm:^3.2.4"

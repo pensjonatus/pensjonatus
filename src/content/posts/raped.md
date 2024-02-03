@@ -1,11 +1,13 @@
 ---
-title: "Raped"
-date: "2015-12-07"
-categories: 
-  - "flash-fiction"
+title: 'Raped'
+date: '2015-12-07'
+categories:
+  - 'flash-fiction'
 ---
 
-She was nice to me and her hair smelled like bubblegum. But she gave me a lot of attention and I do not react well to that, so I left her and mingled with other people.
+She was nice to me and her hair smelled like bubblegum. But she gave me a lot of
+attention and I do not react well to that, so I left her and mingled with other
+people.
 
 An hour later she came back and she was slightly drunk.
 
@@ -15,7 +17,8 @@ An hour later she came back and she was slightly drunk.
 
 She frowned and pretended like that was something gross.
 
-Getting away from her was hard. She became aggressive. I was ready to leave, so I went into Alex's room to call a cab.
+Getting away from her was hard. She became aggressive. I was ready to leave, so
+I went into Alex's room to call a cab.
 
 "Alone at last," I heard her say behind me. I turned around.
 
@@ -27,19 +30,24 @@ Getting away from her was hard. She became aggressive. I was ready to leave, so 
 
 She started undoing the buttons of her blouse. "Come on, nobody has to know."
 
-I went for the door but she grabbed me and pulled me onto the bed. I did not want to hurt her so I let her. Besides, she was strong. Stronger than I expected.
+I went for the door but she grabbed me and pulled me onto the bed. I did not
+want to hurt her so I let her. Besides, she was strong. Stronger than I
+expected.
 
 She lay on top of me. Her breath smelled of alcohol.
 
 "That's not funny," I said.
 
-"Come on. I know you want it." She dragged her hair over my face and then over my chest.
+"Come on. I know you want it." She dragged her hair over my face and then over
+my chest.
 
 "No, I don't."
 
 She grabbed my belt. I started getting hard. "Please, stop," I said.
 
-"If you try anything," she said, "I'll tell everybody you tried to rape me," she said and then she undid my belt, opened my zipper, got my penis out. If was half erect.
+"If you try anything," she said, "I'll tell everybody you tried to rape me," she
+said and then she undid my belt, opened my zipper, got my penis out. If was half
+erect.
 
 "I knew you want it," she said, then she put it in her mouth.
 
@@ -55,6 +63,8 @@ You're stronger. Why would you let her?
 
 You probably fucked her and then got scared your fiancee would find out.
 
-I lay there with tears in my eyes as she rode me to climax. I kept thinking those same words over and over.
+I lay there with tears in my eyes as she rode me to climax. I kept thinking
+those same words over and over.
 
-There is no way for me to tell anybody. There is no way for me to tell anybody...
+There is no way for me to tell anybody. There is no way for me to tell
+anybody...

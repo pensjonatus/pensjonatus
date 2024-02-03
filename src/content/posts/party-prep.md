@@ -1,15 +1,17 @@
 ---
-title: "Party Prep"
-date: "2015-01-30"
-categories: 
-  - "flash-fiction"
+title: 'Party Prep'
+date: '2015-01-30'
+categories:
+  - 'flash-fiction'
 ---
 
-Jill was chopping up the vegetables, and Jack was frying up the meat. They were preparing food for the party.
+Jill was chopping up the vegetables, and Jack was frying up the meat. They were
+preparing food for the party.
 
 "Hey Jill, can you make them finer?"
 
-"From Hell's heart, I stab at thee. For hate's sake, I spit my last breath at thee."
+"From Hell's heart, I stab at thee. For hate's sake, I spit my last breath at
+thee."
 
 He did not smile. He put some more oregano on the meat.
 

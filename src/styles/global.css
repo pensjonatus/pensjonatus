@@ -1,16 +1,30 @@
 html {
-  background-color: #f1f5f9;
-  font-family: sans-serif;
   --outer-padding: 1rem;
+  --accent-background-color: #75e4f8;
+  --text-color: black;
+  --visited-link-color: #89019b;
+  font-family: 'Cormorant Garamond', sans-serif;
+  background-color: #f1f5f9;
+}
+
+html a:visited {
+  color: var(--visited-link-color);
 }
 
 html.dark {
-  background-color: #0d0950;
-  color: #fff;
+  --text-color: white;
+  --accent-background-color: #2010f7;
+  --visited-link-color: #d4cfcf;
+  background-color: #1e1e20;
+  color: var(--text-color);
 }
 
 .dark .nav-links a {
-  color: #fff;
+  color: var(--text-color);
+}
+
+.dark a {
+  color: var(--text-color);
 }
 
 body {
@@ -45,14 +59,13 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  background-color: var(--text-color);
 }
 
 .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
   display: none;
   margin: 0;
 }
@@ -69,7 +82,7 @@ h1 {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #ff9776;
+  background-color: var(--accent-background-color);
 }
 
 .expanded {
@@ -89,7 +102,7 @@ footer a {
 }
 
 footer a:visited {
-  color: aliceblue;
+  color: var(--visited-link-color);
 }
 
 @media screen and (min-width: 636px) {

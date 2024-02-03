@@ -1,15 +1,20 @@
 ---
-title: "Remember"
-date: "2012-02-18"
-categories: 
-  - "flash-fiction"
+title: 'Remember'
+date: '2012-02-18'
+categories:
+  - 'flash-fiction'
 ---
 
-Jim was old and sick. He could no longer get out of bed without help, so they had a nurse take care of him. They put him in a nice white room with a view of the snowy hills. He was waiting for better days.
+Jim was old and sick. He could no longer get out of bed without help, so they
+had a nurse take care of him. They put him in a nice white room with a view of
+the snowy hills. He was waiting for better days.
 
-Sometimes he would lose his lucidity. Like when they put two black chairs in his room for visitors to sit. He could not sleep because of the way the chairs hummed. Or sometimes he saw faces staring at him from outside the window.
+Sometimes he would lose his lucidity. Like when they put two black chairs in his
+room for visitors to sit. He could not sleep because of the way the chairs
+hummed. Or sometimes he saw faces staring at him from outside the window.
 
-But right now he was sharp as a razor and painfully aware of his position. Bedridden, sleepless in the middle of a long, long night.
+But right now he was sharp as a razor and painfully aware of his position.
+Bedridden, sleepless in the middle of a long, long night.
 
 Fortunately, his friend Charlie came to visit. Charlie, from the war.
 
@@ -25,7 +30,8 @@ Charlie was wearing his green uniform, beret on his head.
 
 "You remember the boys? What happened to all of them?" asked Charlie.
 
-"Biff owned a car rental shop, retired now. Sarge got married to his sweatheart, she died. Randy has twelve grandchildren. They are old, like me."
+"Biff owned a car rental shop, retired now. Sarge got married to his sweatheart,
+she died. Randy has twelve grandchildren. They are old, like me."
 
 "Twelve!" Charlie whistled.
 
@@ -37,7 +43,8 @@ Charlie was wearing his green uniform, beret on his head.
 
 "You remember that French girl, Jim? The one with the big jugs?"
 
-"Oh yeah," Jim cackled, "Biggest tits I ever saw. Her name was Frannie. I think I was in love."
+"Oh yeah," Jim cackled, "Biggest tits I ever saw. Her name was Frannie. I think
+I was in love."
 
 "You ever got married, Jim?"
 
@@ -47,7 +54,8 @@ Charlie was wearing his green uniform, beret on his head.
 
 "I always remembered her, because she was a good lay."
 
-"You're lying, Jim. You never slept with her. You wanted her to be your goddess."
+"You're lying, Jim. You never slept with her. You wanted her to be your
+goddess."
 
 "How do you know, Charlie?"
 

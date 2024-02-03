@@ -1,8 +1,8 @@
 ---
-title: "The Coming Attractions"
-date: "2013-06-11"
-categories: 
-  - "flash-fiction"
+title: 'The Coming Attractions'
+date: '2013-06-11'
+categories:
+  - 'flash-fiction'
 ---
 
 They stepped out of the theater. She said: "So did you enjoy the movie, baby?"
@@ -15,7 +15,9 @@ They stepped out of the theater. She said: "So did you enjoy the movie, baby?"
 
 "Then what is it?"
 
-"You know how all the walls go straight up, and the line that marks the place walls intersect is perfectly vertical? And how the line where the ceiling meets the wall is horizontal?"
+"You know how all the walls go straight up, and the line that marks the place
+walls intersect is perfectly vertical? And how the line where the ceiling meets
+the wall is horizontal?"
 
 "Yeah," she said slowly.
 
@@ -23,6 +25,7 @@ They stepped out of the theater. She said: "So did you enjoy the movie, baby?"
 
 "Yeah."
 
-"Well tonight it stopped being like that for me. It's all crooked and... kinda crazy."
+"Well tonight it stopped being like that for me. It's all crooked and... kinda
+crazy."
 
 "Huh."

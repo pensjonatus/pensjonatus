@@ -1,4 +1,5 @@
 ---
+import Tag from '@components/Tag.astro';
 import BaseLayout from '@layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const allPosts = await getCollection('posts');
@@ -15,26 +16,12 @@ const uniqueTags = [
   .tags {
     display: flex;
     flex-wrap: wrap;
-  }
-
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: 0.5em;
-    padding: 0.5em 1em;
-    font-size: 1.15em;
-    background-color: #f8fcfd;
+    gap: 1rem;
   }
 </style>
 
 <BaseLayout pageTitle="Tags">
   <div class="tags">
-    {
-      uniqueTags.map((tag) => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
+    {uniqueTags.map((tag) => <Tag value={tag} />)}
   </div>
 </BaseLayout>

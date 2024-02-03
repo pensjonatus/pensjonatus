@@ -1,13 +1,14 @@
 ---
-title: "The Whimsical"
-date: "2013-07-22"
-categories: 
-  - "flash-fiction"
+title: 'The Whimsical'
+date: '2013-07-22'
+categories:
+  - 'flash-fiction'
 ---
 
 I was doing my homework when my dad leaned inside.
 
-"Hi," he said, and he immediately receded behind the half-open door. I could only see a part of him.
+"Hi," he said, and he immediately receded behind the half-open door. I could
+only see a part of him.
 
 "Hi dad, what's up?"
 
@@ -17,11 +18,13 @@ I was doing my homework when my dad leaned inside.
 
 "Good, good," he said, hiding behind the door even more. "How's school."
 
-"Okay, I guess. I have this history test tomorrow. Mr. Dog says it's gonna be sixty per cent of our final grade."
+"Okay, I guess. I have this history test tomorrow. Mr. Dog says it's gonna be
+sixty per cent of our final grade."
 
 "Mr. Dog, huh?"
 
-"Yeah, his name is John Running Dog. Our history teacher is Native American. How come you don't know that?"
+"Yeah, his name is John Running Dog. Our history teacher is Native American. How
+come you don't know that?"
 
 "I, uhm, I don't know why," I could only see one of his eyes now.
 

@@ -1,0 +1,19 @@
+---
+interface Props {
+  value: string;
+}
+
+const { value } = Astro.props;
+---
+
+<p class="tag">
+  <a href={`/tags/${value}`}>{value}</a>
+</p>
+
+<style>
+  .tag {
+    padding: 6px 12px;
+    border: 0.5px solid var(--text-color);
+    border-radius: 6px;
+  }
+</style>

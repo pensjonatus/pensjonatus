@@ -1,9 +1,9 @@
 ---
-title: "Other Mom"
-date: "2014-11-03"
-categories: 
-  - "creepy"
-  - "flash-fiction"
+title: 'Other Mom'
+date: '2014-11-03'
+categories:
+  - 'creepy'
+  - 'flash-fiction'
 ---
 
 I tucked my son in and gave him a hug. As I got up to leave, he said:
@@ -34,4 +34,5 @@ My heart skipped a beat. His imagination was too much sometimes.
 
 "Okay, baby. Sweet dreams."
 
-And as I was shutting the door, he murmured something softly. Something that sounded like "I liked it better when we used to go to sleep in the morning."
+And as I was shutting the door, he murmured something softly. Something that
+sounded like "I liked it better when we used to go to sleep in the morning."

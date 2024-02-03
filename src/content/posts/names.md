@@ -1,8 +1,8 @@
 ---
-title: "Names"
-date: "2012-06-09"
-categories: 
-  - "flash-fiction"
+title: 'Names'
+date: '2012-06-09'
+categories:
+  - 'flash-fiction'
 ---
 
 "Hey, welcome. What's your name?" said the male interviewer.
@@ -17,25 +17,32 @@ categories:
 
 "I'm the best bass player in the world."
 
-The male interviewer sneered and looked at the female interviewer. "Haven't we heard that a lot recently. Okay, Johmmy, let's hear you play."
+The male interviewer sneered and looked at the female interviewer. "Haven't we
+heard that a lot recently. Okay, Johmmy, let's hear you play."
 
 Johmmy played a piece. He felt really good about it after he finished.
 
-"Yeah, that's pretty good," said the male interviewer, "Why don't you sit down and answer a few more questions.
+"Yeah, that's pretty good," said the male interviewer, "Why don't you sit down
+and answer a few more questions.
 
-Johmmy took the chair. He wanted to seem confident, but he knew they knew he was stressed. "Thanks. Uhm, do I get to see the band? I mean talk to them?"
+Johmmy took the chair. He wanted to seem confident, but he knew they knew he was
+stressed. "Thanks. Uhm, do I get to see the band? I mean talk to them?"
 
 "Not yet, Johmmy, you still need to talk to us first."
 
 "Okay, sir. What do you want to talk about."
 
-"Just get to know you a little, Johmmy," said the female interviewer. "Were are you from?"
+"Just get to know you a little, Johmmy," said the female interviewer. "Were are
+you from?"
 
 "Uhm, Massachusetts."
 
-"What brings you to California? Are you here to be in the movies?" asked the male interviewer.
+"What brings you to California? Are you here to be in the movies?" asked the
+male interviewer.
 
-"Yeah, no. Not really. I'm a musician, see. This guy that I know said I play really well and I should come to California. He can find me a place to live and hook me up with some gigs. So I came over here."
+"Yeah, no. Not really. I'm a musician, see. This guy that I know said I play
+really well and I should come to California. He can find me a place to live and
+hook me up with some gigs. So I came over here."
 
 "That was how long ago?"
 
@@ -51,7 +58,8 @@ Johmmy took the chair. He wanted to seem confident, but he knew they knew he was
 
 "What I mean is, why are you called Johmmy?"
 
-"Oh, right. I used to be Johnny, but the guy who brought me to California, he said I should be called Johmmy from now on."
+"Oh, right. I used to be Johnny, but the guy who brought me to California, he
+said I should be called Johmmy from now on."
 
 "As in: it's better for the stage and all that?"
 

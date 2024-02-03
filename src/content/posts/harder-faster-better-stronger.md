@@ -1,11 +1,12 @@
 ---
-title: "Harder, Faster, Better, Stronger"
-date: "2012-05-25"
-categories: 
-  - "flash-fiction"
+title: 'Harder, Faster, Better, Stronger'
+date: '2012-05-25'
+categories:
+  - 'flash-fiction'
 ---
 
-Hank was under the car, looking for the torque wrench, when he realized he couldn't take it anymore.
+Hank was under the car, looking for the torque wrench, when he realized he
+couldn't take it anymore.
 
 "Why don't you turn that shit down, huh?"
 
@@ -15,7 +16,8 @@ Hank was under the car, looking for the torque wrench, when he realized he could
 
 "Sorry," said Mike after the music got quieter. "I didn't realize."
 
-"I mean, I understand rock. Alan Parsons Project, The Who, you know. But this is just mindless noise. It doesn't go anywhere. What is it with kids these days?"
+"I mean, I understand rock. Alan Parsons Project, The Who, you know. But this is
+just mindless noise. It doesn't go anywhere. What is it with kids these days?"
 
 "Uhm, I think it's good. It's complex."
 
@@ -27,6 +29,7 @@ Hank was under the car, looking for the torque wrench, when he realized he could
 
 "No."
 
-"Even if you were, you're listening to it, not playing it. God, Mike, you're the dumbest person I know. Would you change the station?"
+"Even if you were, you're listening to it, not playing it. God, Mike, you're the
+dumbest person I know. Would you change the station?"
 
 "Yeah. Sure. Sorry, boss."

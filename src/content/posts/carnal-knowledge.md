@@ -1,11 +1,13 @@
 ---
-title: "Carnal Knowledge"
-date: "2012-02-28"
-categories: 
-  - "flash-fiction"
+title: 'Carnal Knowledge'
+date: '2012-02-28'
+categories:
+  - 'flash-fiction'
 ---
 
-Emily was still recovering from the orgasm, it only just reached her that Zack's arms were around her. She smiled and turned her head backwards to give him a kiss.
+Emily was still recovering from the orgasm, it only just reached her that Zack's
+arms were around her. She smiled and turned her head backwards to give him a
+kiss.
 
 She wanted some pillowtalk.
 
@@ -31,7 +33,8 @@ Zack murmurred something she did not understand.
 
 "Uh-uh. I asked you first," Emily laughed a little.
 
-"Well, I'm just not the kind of guy to have weird fantasies. I sometimes just think of you."
+"Well, I'm just not the kind of guy to have weird fantasies. I sometimes just
+think of you."
 
 "Liar."
 
@@ -39,7 +42,8 @@ Zack murmurred something she did not understand.
 
 "Really?" She did not know whether to feel flattered, but she did anyway.
 
-"Yeah. Sometimes, when we're apart for a long time, like I'm on a business trip or something-"
+"Yeah. Sometimes, when we're apart for a long time, like I'm on a business trip
+or something-"
 
 "So you never imagine yourself, let's say, with two women?"
 
@@ -49,4 +53,8 @@ Zack murmurred something she did not understand.
 
 "I only want you."
 
-Was he not letting himself be lured out? Or was he really such a good guy? Emily let him drift away to sleep and sunk in his warmth. She liked the way he touched her. Only she started to feel that somewhere ahead there was a small room. A small, stuffy bedroom with the two of them trapped together. Trapped in long, boring sex.
+Was he not letting himself be lured out? Or was he really such a good guy? Emily
+let him drift away to sleep and sunk in his warmth. She liked the way he touched
+her. Only she started to feel that somewhere ahead there was a small room. A
+small, stuffy bedroom with the two of them trapped together. Trapped in long,
+boring sex.

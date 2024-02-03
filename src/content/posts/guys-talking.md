@@ -1,13 +1,15 @@
 ---
-title: "Guys Talking"
-date: "2014-05-16"
-categories: 
-  - "flash-fiction"
+title: 'Guys Talking'
+date: '2014-05-16'
+categories:
+  - 'flash-fiction'
 ---
 
-It was hot, it was a an outdoor cafe, it was summer. Two man were drinking coffee, looking at the girls walking by.
+It was hot, it was a an outdoor cafe, it was summer. Two man were drinking
+coffee, looking at the girls walking by.
 
-"We need to make a move on the Henderson account," said one, as a blonde passed by.
+"We need to make a move on the Henderson account," said one, as a blonde passed
+by.
 
 "Agreed," said the other looking at a redhead, "But what strategy do we choose?"
 
@@ -33,7 +35,8 @@ It was hot, it was a an outdoor cafe, it was summer. Two man were drinking coffe
 
 "You don't seem to care ever since... Ever since she left."
 
-"She was too good for this company and you know it. She is making millions selling whatever to you-know-who."
+"She was too good for this company and you know it. She is making millions
+selling whatever to you-know-who."
 
 "I do... I do?"
 
@@ -49,6 +52,8 @@ It was hot, it was a an outdoor cafe, it was summer. Two man were drinking coffe
 
 "I do too."
 
-They took a sip of coffee each. They sighed each. High above, a tiny blue bird swirled in the air. Far away from them, and free. The bird would soon go on to writing memoirs and expose them for who they really were.
+They took a sip of coffee each. They sighed each. High above, a tiny blue bird
+swirled in the air. Far away from them, and free. The bird would soon go on to
+writing memoirs and expose them for who they really were.
 
 A metaphorical bird, if you know what I mean.
