@@ -619,10 +619,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/cormorant-garamond@npm:^5.0.8":
+"@fontsource/libre-baskerville@npm:^5.0.8":
   version: 5.0.8
-  resolution: "@fontsource/cormorant-garamond@npm:5.0.8"
-  checksum: 42243145f8003664ea08a242c5dc9df577e34fd6ad08e28336b86408c2a5b71b7871ee4381ccc14abff441a9b6f8796aa8f05daf997fcfa84c1494997b001aa7
+  resolution: "@fontsource/libre-baskerville@npm:5.0.8"
+  checksum: f7019b9f061bf17243af511dba5d4765bdbf6242df383754b8c5e1ad184a733fefb5f6b2de610ed35703d4ac58afac4a391b09e169c547cbbb88739a00177a48
   languageName: node
   linkType: hard
 
@@ -4613,7 +4613,7 @@ __metadata:
     "@astrojs/check": "npm:^0.4.1"
     "@astrojs/preact": "npm:^3.1.0"
     "@astrojs/rss": "npm:^4.0.4"
-    "@fontsource/cormorant-garamond": "npm:^5.0.8"
+    "@fontsource/libre-baskerville": "npm:^5.0.8"
     astro: "npm:^4.3.2"
     preact: "npm:^10.19.3"
     prettier: "npm:^3.2.4"

@@ -6,4 +6,14 @@ interface Props {
 const { href, label } = Astro.props;
 ---
 
-<a href={href}>{label}</a>
+<a href={href} class="footer-link">{label}</a>
+
+<style>
+  a.footer-link {
+    color: white;
+  }
+
+  a.footer-link:visited {
+    color: lightblue;
+  }
+</style>

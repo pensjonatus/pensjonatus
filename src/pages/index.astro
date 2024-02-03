@@ -1,24 +1,18 @@
 ---
-import Greeting from '@components/Greetings';
+import BlogpostList from '@components/BlogpostList.astro';
 import BaseLayout from '@layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+const allPosts = await getCollection('posts');
+allPosts.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
 ---
 
-<BaseLayout pageTitle="Flash Fiction">
-  <h2>Some section coming soon</h2>
-  <Greeting
-    client:load
-    messages={[
-      'Howdy',
-      'Hello',
-      'Hi',
-      'Hey there',
-      'Hullo',
-      'Hey',
-      'All right',
-      'Aye, aye',
-      'Aloha',
-      "'ello",
-      'Guv',
-    ]}
+<BaseLayout pageTitle="Flash fiction">
+  <p>Read one of my {allPosts.length} stories and poems.</p>
+  <BlogpostList
+    items={allPosts.map((post) => ({
+      title: post.data.title,
+      date: post.data.date,
+      slug: post.slug,
+    }))}
   />
 </BaseLayout>

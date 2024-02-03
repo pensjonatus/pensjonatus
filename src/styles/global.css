@@ -3,7 +3,7 @@ html {
   --accent-background-color: #75e4f8;
   --text-color: black;
   --visited-link-color: #89019b;
-  font-family: 'Cormorant Garamond', sans-serif;
+  font-family: 'Libre Baskerville', sans-serif;
   background-color: #f1f5f9;
 }
 
@@ -91,18 +91,13 @@ h1 {
 
 footer {
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 300px;
   gap: 1rem;
   margin-top: 6rem;
   background-color: black;
   padding: 8px 16px;
-}
-
-footer a {
-  color: white;
-}
-
-footer a:visited {
-  color: var(--visited-link-color);
 }
 
 @media screen and (min-width: 636px) {

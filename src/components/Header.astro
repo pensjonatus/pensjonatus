@@ -7,13 +7,23 @@ import ThemeIcon from './ThemeIcon.astro';
 <header>
   <Hamburger />
   <Navigation />
-  <ThemeIcon />
+  <div class="right">
+    <a href="/rss.xml">RSS</a>
+    <ThemeIcon />
+  </div>
 </header>
 
 <style>
   header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: var(--outer-padding);
+  }
+
+  .right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
   }
 </style>

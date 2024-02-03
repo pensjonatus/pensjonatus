@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.4.1",
     "@astrojs/preact": "^3.1.0",
     "@astrojs/rss": "^4.0.4",
-    "@fontsource/cormorant-garamond": "^5.0.8",
+    "@fontsource/libre-baskerville": "^5.0.8",
     "astro": "^4.3.2",
     "preact": "^10.19.3",
     "prettier": "^3.2.4",
