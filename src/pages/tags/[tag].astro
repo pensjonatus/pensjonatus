@@ -3,7 +3,7 @@ import BlogPostLink from '@components/BlogPostLink.astro';
 import BaseLayout from '@layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-export async function getStaticPaths(): Promise<any> {
+export async function getStaticPaths() {
   const allPosts = await getCollection('posts');
   const uniqueTags = [
     ...new Set(allPosts.map((post) => post.data.categories).flat()),
