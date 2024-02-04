@@ -16,7 +16,7 @@ const currentPath = Astro.url.pathname;
   <div class="nav">
     {
       routes.map(({ slug, label }) => {
-        const isActive = currentPath === slug;
+        const isActive = `${import.meta.env.BASE_URL}/currentPath` === slug;
         return (
           <a
             class={isActive ? 'active' : undefined}
