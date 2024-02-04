@@ -6,9 +6,7 @@ interface Props {
 const { value } = Astro.props;
 ---
 
-<p class="tag">
-  <a href={`/tags/${value}`}>{value}</a>
-</p>
+<a href={`/tags/${value}`} class="tag">{value}</a>
 
 <style>
   .tag {

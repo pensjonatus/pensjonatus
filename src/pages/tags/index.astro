@@ -14,11 +14,20 @@ tagWithCount.sort((a, b) => (a.count > b.count ? -1 : 1));
 ---
 
 <BaseLayout pageTitle="Tags">
-  <div class="tags">
+  <div class="tag-list">
     {
       tagWithCount.map(({ label, count }) => (
-        <Tag value={`${label} (${count})`} />
+        <p>
+          <Tag value={label} /> ({count})
+        </p>
       ))
     }
   </div>
 </BaseLayout>
+
+<style>
+  .tag-list {
+    display: flex;
+    flex-direction: column;
+  }
+</style>
