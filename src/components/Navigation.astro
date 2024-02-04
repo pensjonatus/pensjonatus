@@ -1,11 +1,33 @@
 ---
-
+const routes = [
+  {
+    slug: '/',
+    label: 'Stories',
+  },
+  {
+    slug: '/tags',
+    label: 'Tags',
+  },
+];
+const currentPath = Astro.url.pathname;
 ---
 
 <nav role="navigation" aria-label="Main menu">
   <div class="nav">
-    <a href="/">Stories</a>
-    <a href="/tags">Tags</a>
+    {
+      routes.map(({ slug, label }) => {
+        const isActive = currentPath === slug;
+        return (
+          <a
+            class={isActive ? 'active' : undefined}
+            href={isActive ? undefined : slug}
+            aria-current={isActive ? 'page' : undefined}
+          >
+            {label}
+          </a>
+        );
+      })
+    }
   </div>
 </nav>
 
@@ -19,5 +41,10 @@
     color: var(--text-color);
     text-decoration: none;
     padding: 6px 0;
+  }
+
+  a.active {
+    color: gray !important;
+    cursor: default;
   }
 </style>
