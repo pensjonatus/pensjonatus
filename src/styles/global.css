@@ -25,14 +25,14 @@ html.dark {
 }
 
 body {
-  margin: 0 auto;
   width: 100%;
-  max-width: 80ch;
   line-height: 1.5;
 }
 
 main {
   padding: var(--outer-padding);
+  max-width: 60ch;
+  margin: 0 auto;
   min-height: calc(100vh - 20px);
 }
 
