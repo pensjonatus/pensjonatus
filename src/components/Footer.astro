@@ -16,3 +16,16 @@ import FooterLink from '@components/FooterLink.astro';
 <footer>
   {links.map((linkProps) => <FooterLink {...linkProps} />)}
 </footer>
+
+<style>
+  footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 300px;
+    gap: 1rem;
+    margin-top: 6rem;
+    background-color: black;
+    padding: 8px 16px;
+  }
+</style>

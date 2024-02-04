@@ -33,6 +33,7 @@ const { posts } = Astro.props;
       title: post.data.title,
       date: post.data.date,
       slug: post.slug,
+      excerpt: post.body.slice(0, 150),
     }))}
   />
   <BackToAllTags />

@@ -6,6 +6,16 @@ import Tag from '@components/Tag.astro';
 const { frontmatter } = Astro.props;
 ---
 
+<BaseLayout pageTitle={frontmatter.title}>
+  <div class="meta">
+    <FormattedDate dateString={frontmatter.date} />
+  </div>
+  <div class="tags">
+    {frontmatter.categories.map((tag: string) => <Tag value={tag} />)}
+  </div>
+  <slot />
+</BaseLayout>
+
 <style>
   .meta {
     display: flex;
@@ -31,13 +41,3 @@ const { frontmatter } = Astro.props;
     gap: 1rem;
   }
 </style>
-
-<BaseLayout pageTitle={frontmatter.title}>
-  <div class="meta">
-    <FormattedDate dateString={frontmatter.date} />
-  </div>
-  <div class="tags">
-    {frontmatter.categories.map((tag: string) => <Tag value={tag} />)}
-  </div>
-  <slot />
-</BaseLayout>
