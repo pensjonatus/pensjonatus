@@ -13,10 +13,6 @@ type PostInfo = {
   slug: string;
 };
 
-function getWithoutQuotes(phrase: string): string {
-  return phrase.substring(1, phrase.length - 1);
-}
-
 export function readPostInfo(): PostInfo | null {
   if (typeof localStorage === 'undefined') {
     return null;
@@ -29,6 +25,10 @@ export function readPostInfo(): PostInfo | null {
   }
 
   const matches = savedPost.match(/{{([^}]+)}},{{([^}]+)}}/);
+
+  if (matches === null) {
+    return null;
+  }
 
   return {
     title: matches[1],
