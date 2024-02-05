@@ -682,6 +682,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@fontsource/spectral@npm:^5.0.8":
+  version: 5.0.8
+  resolution: "@fontsource/spectral@npm:5.0.8"
+  checksum: 85e2f08804985f77e15bf27afd8eef87af95b5a3f808512735ff5d60af5913d05dd46200ca36825d97a06670557b006ab4424eb2cdc718b0133db43df84f0ac9
+  languageName: node
+  linkType: hard
+
 "@humanwhocodes/config-array@npm:^0.11.13":
   version: 0.11.14
   resolution: "@humanwhocodes/config-array@npm:0.11.14"
@@ -5352,6 +5359,7 @@ __metadata:
     "@astrojs/preact": "npm:^3.1.0"
     "@astrojs/rss": "npm:^4.0.4"
     "@fontsource/libre-baskerville": "npm:^5.0.8"
+    "@fontsource/spectral": "npm:^5.0.8"
     "@types/eslint": "npm:^8"
     "@typescript-eslint/parser": "npm:^6.20.0"
     astro: "npm:^4.3.2"
