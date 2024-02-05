@@ -3,12 +3,14 @@ module.exports = {
   extends: [
     // ...
     'plugin:astro/recommended',
+    'plugin:astro/recommended',
   ],
   // ...
   overrides: [
     {
       // Define the configuration for `.astro` file.
       files: ['*.astro'],
+      processor: 'astro/client-side-ts',
       // Allows Astro components to be parsed.
       parser: 'astro-eslint-parser',
       // Parse the script in `.astro` as TypeScript by adding the following configuration.
