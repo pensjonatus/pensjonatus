@@ -4,7 +4,13 @@ export const localStorageKey = 'last-read';
 
 export function savePost(title: string, slug: string) {
   if (typeof localStorage !== 'undefined') {
-    localStorage.setItem(localStorageKey, `{{${title}}},{{${slug}}}`);
+    localStorage.setItem(
+      localStorageKey,
+      JSON.stringify({
+        title,
+        slug,
+      })
+    );
   }
 }
 
@@ -24,15 +30,15 @@ export function readPostInfo(): PostInfo | null {
     return null;
   }
 
-  const matches = savedPost.match(/{{([^}]+)}},{{([^}]+)}}/);
+  const { title, slug } = JSON.parse(savedPost);
 
-  if (matches === null) {
+  if (!title || !slug) {
     return null;
   }
 
   return {
-    title: matches[1],
-    slug: matches[2],
+    title,
+    slug,
   };
 }
 
