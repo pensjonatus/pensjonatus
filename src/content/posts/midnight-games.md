@@ -6,10 +6,9 @@ categories:
 ---
 
 It was late. I think it was about midnight when I finished work. I closed my
-laptop lid, my mind still full of images of car dashboards. I am a designer and
-my job is to be creative. Well, not really. My job is to give executives
-options, and I work for a wannabe Steve Jobs who wants to revolutionize the car
-industry.
+laptop, my mind still full of images of car dashboards. I am a designer and my
+job is to be creative. Well, not really. My job is to give executives options,
+and I work for a wannabe Steve Jobs who wants to revolutionize the car industry.
 
 But enough about that. It was midnight when I finished, the house was dark. I
 never got around to turning the lights on, having worked all day. I was sitting
