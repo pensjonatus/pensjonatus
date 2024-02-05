@@ -1,5 +1,6 @@
 ---
 import BlogpostList from '@components/BlogpostList.astro';
+import { LastRead } from '@components/LastRead';
 import BaseLayout from '@layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const allPosts = await getCollection('posts');
@@ -8,7 +9,9 @@ allPosts.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
 
 <BaseLayout pageTitle="Flash fiction">
   <p class="byline">by Paweł Kowaluk</p>
-  <p>Read one of my {allPosts.length} stories and poems.</p>
+  <p>
+    <LastRead client:load />
+  </p>
   <BlogpostList
     items={allPosts.map((post) => ({
       title: post.data.title,

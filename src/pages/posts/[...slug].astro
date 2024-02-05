@@ -19,6 +19,11 @@ const { entry, previous, next } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<MarkdownPostLayout frontmatter={entry.data} previous={previous} next={next}>
+<MarkdownPostLayout
+  frontmatter={entry.data}
+  previous={previous}
+  next={next}
+  slug={entry.slug}
+>
   <Content />
 </MarkdownPostLayout>

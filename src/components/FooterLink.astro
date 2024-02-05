@@ -6,7 +6,9 @@ interface Props {
 const { href, label } = Astro.props;
 ---
 
-<a href={href} class="footer-link">{label}</a>
+<a href={href} class="footer-link" target="_blank" rel="noopener noreferrer"
+  >{label}</a
+>
 
 <style>
   a.footer-link {

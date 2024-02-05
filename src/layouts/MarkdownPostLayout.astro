@@ -2,8 +2,9 @@
 import FormattedDate from '@components/FormattedDate.astro';
 import BaseLayout from './BaseLayout.astro';
 import Tag from '@components/Tag.astro';
+import { PostSaver } from '@components/LastRead';
 
-const { frontmatter, previous, next } = Astro.props;
+const { frontmatter, slug, previous, next } = Astro.props;
 ---
 
 <BaseLayout pageTitle={frontmatter.title}>
@@ -49,6 +50,7 @@ const { frontmatter, previous, next } = Astro.props;
       )
     }
   </div>
+  <PostSaver client:load title={frontmatter.title} slug={slug} />
 </BaseLayout>
 
 <style>
@@ -97,6 +99,7 @@ const { frontmatter, previous, next } = Astro.props;
     border-radius: 6px;
     flex: 1;
     background-color: var(--foreground-color);
+    color: var(--text-color)
     text-decoration: none;
   }
 </style>
