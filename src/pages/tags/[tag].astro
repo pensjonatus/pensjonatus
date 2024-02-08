@@ -26,8 +26,8 @@ const { tag } = Astro.params;
 const { posts } = Astro.props;
 ---
 
-<BaseLayout pageTitle={tag}>
-  <p>{posts.length} posts tagged with {tag}</p>
+<BaseLayout pageTitle={`Tag: ${tag}`}>
+  <p>{posts.length} posts tagged with "{tag}"</p>
   <BackToAllTags />
   <BlogpostList
     items={posts.map((post) => ({

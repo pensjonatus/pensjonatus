@@ -5,6 +5,7 @@ html {
   --background-color: #f7f8fa;
   --foreground-color: #fff;
   font-family: 'Crimson Text', sans-serif;
+  font-size: 20px;
   background-color: var(--background-color);
 }
 

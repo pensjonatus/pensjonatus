@@ -1,0 +1,56 @@
+---
+import FormattedDate from '@components/FormattedDate.astro';
+import BaseLayout from './BaseLayout.astro';
+import Tag from '@components/Tag.astro';
+import { PostSaver } from '@components/LastRead';
+import BottomNav from '@components/BottomNav.astro';
+
+const { frontmatter, slug, previous, next } = Astro.props;
+---
+
+<BaseLayout pageTitle={frontmatter.title}>
+  <div class="meta">
+    <FormattedDate dateString={frontmatter.date} />
+    <div class="tags">
+      {frontmatter.categories.map((tag: string) => <Tag value={tag} />)}
+    </div>
+  </div>
+  <slot />
+  <hr />
+  <BottomNav previous={previous} next={next} />
+  <PostSaver client:load title={frontmatter.title} slug={slug} />
+</BaseLayout>
+
+<style>
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-style: italic;
+    font-size: 90%;
+    padding-bottom: 2rem;
+  }
+
+  .description {
+    border-left: 3px solid gray;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  a {
+    color: #00539f;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  hr {
+    max-width: 75%;
+    margin-top: 4rem;
+    border-radius: 40%;
+  }
+</style>
