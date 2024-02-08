@@ -4,7 +4,7 @@ import MarkdownPostLayout from '@layouts/MarkdownPostLayout.astro';
 
 export async function getStaticPaths() {
   const blogEntries = await getCollection('posts');
-  blogEntries.sort((a, b) => (a.data.date > b.data.date ? 1 : -1));
+  blogEntries.sort((a, b) => (a.data.date < b.data.date ? -1 : 1));
   return blogEntries.map((entry, idx) => ({
     params: { slug: entry.slug },
     props: {

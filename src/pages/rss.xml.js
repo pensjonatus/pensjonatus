@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 
 export async function GET(context) {
   const posts = await getCollection('posts');
+  posts.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
   return rss({
     title: 'Paweł Kowaluk | Flash Fiction',
     description: 'Flash fiction, poetry, and short stories',
