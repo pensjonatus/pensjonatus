@@ -6,14 +6,14 @@ categories:
   - 'flash-fiction'
 ---
 
-[A man](http://kwlk.pl/on-holiday/) was sitting alone in a penthouse suite.
-There was an old leather-bound book in his lap. He was wrapped in a blanket,
-there were cheap bracelets all over his arms, he was wearing more than six
-belts. All of these items he had enchanted using magic from another plane of
-existence. They each served a purpose, all together making him invincible. He
-could have replaced them with high-quality items, but he appreciated the humor.
-Him, king of two continents, appeared everywhere wrapped in an old blanket. He
-even considered enchanting a colander and putting it on his head.
+[A man](./on-holiday) was sitting alone in a penthouse suite. There was an old
+leather-bound book in his lap. He was wrapped in a blanket, there were cheap
+bracelets all over his arms, he was wearing more than six belts. All of these
+items he had enchanted using magic from another plane of existence. They each
+served a purpose, all together making him invincible. He could have replaced
+them with high-quality items, but he appreciated the humor. Him, king of two
+continents, appeared everywhere wrapped in an old blanket. He even considered
+enchanting a colander and putting it on his head.
 
 But not that night. Sitting on his throne-couch alone, he was looking outside,
 over Las Vegas, onto the bright horizon where the sun was about to rise. He was
@@ -49,8 +49,8 @@ intent. You have ruffled many a feather."
 "Answer me, creature."
 
 "I am answering, in my own way. The King of Heaven does not want you there.
-[He has already started](http://kwlk.pl/the-cathedral/) rallying his minions.
-They will not go down lightly."
+[He has already started](./the-cathedral) rallying his minions. They will not go
+down lightly."
 
 "Will I succeed?"
 

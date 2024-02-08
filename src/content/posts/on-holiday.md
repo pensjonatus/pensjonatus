@@ -19,7 +19,7 @@ something on our tablets. It was mature love.
 
 "Honey," she said, "Did you know a man dreamed about a book and then woke up
 with the book next to his bed. He actually
-[brought it back from his dream](http://kwlk.pl/the-book/)."
+[brought it back from his dream](./the-book)."
 
 I laughed condescendingly, "Honey, how can one prove a story like that?"
 

@@ -43,7 +43,7 @@ have to get out of it."
 
 My wife was right behind me, holding her phone in her hand. She had a perfect
 look of concern on her face, too perfect. "I called doctor Reynolds," she said.
-"He will be right here. You are getting
-[confused](http://kwlk.pl/do-you-feel-fantastic/) again," she said.
+"He will be right here. You are getting [confused](./do-you-feel-fantastic)
+again," she said.
 
 I looked at her, startled. "Am I?"
