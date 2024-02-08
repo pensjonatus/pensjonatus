@@ -60,9 +60,7 @@ export function LastRead() {
   return (
     <div>
       You recently read "{post.title}".{' '}
-      <a href={`${import.meta.env.BASE_URL}/posts/${post.slug}/`}>
-        Continue reading
-      </a>
+      <a href={`/posts/${post.slug}/`}>Continue reading</a>
     </div>
   );
 }

@@ -8,7 +8,7 @@ const { previous, next } = Astro.props;
       <div class="item">
         <span class="label">Newer: </span>
         <a
-          href={`${import.meta.env.BASE_URL}/posts/${next.slug}`}
+          href={`/posts/${next.slug}`}
           class="link-box"
         >
           {next.data.title}
@@ -25,7 +25,7 @@ const { previous, next } = Astro.props;
           Older:{' '}
         </span>
         <a
-          href={`${import.meta.env.BASE_URL}/posts/${previous.slug}`}
+          href={`/posts/${previous.slug}`}
           class="link-box"
           style="text-align: right;"
         >

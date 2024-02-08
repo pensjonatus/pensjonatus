@@ -18,7 +18,7 @@ const { items } = Astro.props;
 <div class="list">
   {
     items.map(({ slug, date, title, excerpt }) => (
-      <a href={`${import.meta.env.BASE_URL}/posts/${slug}/`} class="card">
+      <a href={`/posts/${slug}/`} class="card">
         <span class="title">{title}</span>
         <span class="excerpt">
           {excerpt} <span class="read-more">...read more</span>
