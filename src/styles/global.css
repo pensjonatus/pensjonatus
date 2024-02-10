@@ -1,7 +1,7 @@
 html {
   --outer-padding: 1rem;
   --text-color: black;
-  --visited-link-color: #89019b;
+  --visited-link-color: var(--text-color);
   --background-color: #f7f8fa;
   --foreground-color: #fff;
   --box-border-radius: 6px;
