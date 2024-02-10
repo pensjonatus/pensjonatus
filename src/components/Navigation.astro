@@ -2,11 +2,15 @@
 const routes = [
   {
     slug: `/`,
-    label: 'Stories',
+    label: 'Home',
   },
   {
     slug: `/tags`,
     label: 'Tags',
+  },
+  {
+    slug: `/rss.xml`,
+    label: 'RSS',
   },
 ];
 const currentPath = Astro.url.pathname;

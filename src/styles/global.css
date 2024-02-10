@@ -5,7 +5,9 @@ html {
   --background-color: #f7f8fa;
   --foreground-color: #fff;
   --box-border-radius: 6px;
-  font-family: 'Crimson Text', sans-serif;
+  --blog-font: 'Crimson Text', sans-serif;
+  --container-width: 60ch;
+  font-family: var(--blog-font);
   font-size: 20px;
   background-color: var(--background-color);
 }
@@ -33,7 +35,7 @@ body {
 
 main {
   padding: var(--outer-padding);
-  max-width: 60ch;
+  max-width: var(--container-width);
   margin: 0 auto;
   min-height: calc(100vh - 20px);
 }
