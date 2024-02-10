@@ -6,9 +6,10 @@ import '../styles/global.css';
 
 interface Props {
   pageTitle: string;
+  isHome?: boolean;
 }
 
-const { pageTitle } = Astro.props;
+const { pageTitle, isHome } = Astro.props;
 ---
 
 <html lang="en">
@@ -22,7 +23,23 @@ const { pageTitle } = Astro.props;
   <body>
     <Header />
     <main>
-      <h1>{pageTitle}</h1>
+      {
+        isHome ? (
+          <div class="header-with-image">
+            <div
+              role="img"
+              aria-label="a hand drawing of a hollow-faced person sitting, thinking, sighing, dreaming."
+              class="header-image"
+            />
+            <div>
+              <h1>{pageTitle}</h1>
+              <p class="byline">Flash fiction by Paweł Kowaluk</p>
+            </div>
+          </div>
+        ) : (
+          <h1>{pageTitle}</h1>
+        )
+      }
       <slot />
     </main>
     <Footer />

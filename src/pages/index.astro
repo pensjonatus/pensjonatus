@@ -7,8 +7,7 @@ const allPosts = await getCollection('posts');
 allPosts.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
 ---
 
-<BaseLayout pageTitle="Sigh and fiction">
-  <p class="byline">Flash fiction by Paweł Kowaluk</p>
+<BaseLayout pageTitle="Sigh and fiction" isHome>
   <p>
     <LastRead client:load />
   </p>
@@ -21,9 +20,3 @@ allPosts.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
     }))}
   />
 </BaseLayout>
-
-<style>
-  .byline {
-    font-style: italic;
-  }
-</style>

@@ -16,7 +16,7 @@ const currentPath = Astro.url.pathname;
   <div class="nav">
     {
       routes.map(({ slug, label }) => {
-        const isActive = currentPath === slug;
+        const isActive = currentPath === slug || currentPath === `${slug}/`;
         return (
           <a
             class={isActive ? 'active' : undefined}

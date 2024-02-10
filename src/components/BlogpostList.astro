@@ -39,10 +39,10 @@ const { items } = Astro.props;
   }
 
   .card {
-    padding: 1rem 2rem;
+    padding: 1rem;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     color: var(--text-color);
-    border-radius: 6px;
+    border-radius: var(--box-border-radius);
     text-decoration: none;
     display: flex;
     flex-direction: column;
@@ -63,5 +63,11 @@ const { items } = Astro.props;
   .date {
     align-self: flex-end;
     font-style: italic;
+  }
+
+  @media screen and (min-width: 636px) {
+    .card {
+      padding: 1rem 2rem;
+    }
   }
 </style>

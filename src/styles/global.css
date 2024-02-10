@@ -4,6 +4,7 @@ html {
   --visited-link-color: #89019b;
   --background-color: #f7f8fa;
   --foreground-color: #fff;
+  --box-border-radius: 6px;
   font-family: 'Crimson Text', sans-serif;
   font-size: 20px;
   background-color: var(--background-color);
@@ -37,6 +38,29 @@ main {
   min-height: calc(100vh - 20px);
 }
 
+.header-with-image {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.header-image {
+  height: 300px;
+  width: 100%;
+  background-image: url(/sigh.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+html.dark .header-image {
+  background-image: url(/sigh-inverted.png);
+}
+
+.byline {
+  font-style: italic;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -47,4 +71,8 @@ h1 {
 }
 
 @media screen and (min-width: 636px) {
+  .header-image {
+    height: 200px;
+    width: 100px;
+  }
 }
