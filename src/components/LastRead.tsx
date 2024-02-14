@@ -59,7 +59,7 @@ export function LastRead() {
 
   return (
     <a
-      href={`/posts/${post.slug}/`}
+      href={`/posts/${post.slug}`}
       style={{
         display: 'flex',
         alignItems: 'center',
