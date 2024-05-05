@@ -1,50 +1,58 @@
-# Astro Starter Kit: Minimal
+# Paweł Kowaluk
 
-```sh
-npm create astro@latest -- --template minimal
-```
+I am a full-stack developer who specializes in tooling for technical documentation. That means I have knowledge and experience of tools used in technical writing.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## Skills
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Static site generators
+- DevOps and dpeloying web apps
+- Webmastering, hosting, DNS, all of that
+- Managing versions of docs
+- Creating pipelines for translation and localization
+- Content strategy (this is just one bullet point, but man! if you know the number of things that go into it, you know it's not just a single skill)
+- ContentOps
+- Managing teams and projects
+- Softawre architecture
+- Database design
 
-## 🚀 Project Structure
+## Tech stack
 
-Inside of your Astro project, you'll see the following folders and files:
+Full-stack here means I have experience creating web applications. The tech I know most about is:
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+- React, JS, Typescipt
+- Next.js
+- Astro
+- Express.js
+- Postgres, mySQL
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
-is exposed as a route based on its file name.
+I've also dabbled in:
 
-There's nothing special about `src/components/`, but that's where we like to put
-any Astro/React/Vue/Svelte/Preact components.
+- Python
+- C# and the whole Windows stack
+- Java (literally two commercial projects, so not a lot really)
+- AIs with LLM - I've created more chatbots and LLM pipelines that I can even list, and I learned along the way. I started around 2016 in the pre-LLM days, learning about multinomial regression and all that basic stuff. In the LLM world I've used langchain and related tech to build RAG apps.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Notable achievements
 
-## 🧞 Commands
+Let me not be humble for a minute and appreciate myself. This is for my mental health, but also for potential employers or business partners. I've done some stuff:
 
-All commands are run from the root of the project, from a terminal:
+- I have been building tools and strategies for ContentOps since 2008.
+- I was one of the original co-founders of "soap! technical writing conference" (sic!) - though these guys have taken it to absolutely new heights since I left and I cannot take any credit for its greatness. Still I cannot just forget this part of my life, it's really important to me.
+- I am a contributor to and maintaner of the https://techwriter.pl blog.
+- I am a co-host of Michał Skowron's https://techwriterkoduje.pl podcast.
+- I am on the board of ITCQF, an organization which trains tech writers and issues tech writing certificates across Europe.
+- I served as Technical Director (and site manager) of 3di poland when it first opened in Krakow. I played a major role in setting up the Polish branch and making it profitable.
+- I used to teach a tech writing class in a post-diploma course for managers in the software industry at AGH University of Science and tecnhology.
+- I consider myself an expert public speaker with countless public presentations, private boardroom presentations, and meetings with clients. I've also run training sessions, workshops, and webinars.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+  ## Hobbies
 
-## 👀 Want to learn more?
+  - Writing, mostly flash fiction.
+  - Joke web apps (web apps which make me laugh, like a chatbot that spews out random words and promises they are true in some universe, or a clock that counts down seconds until you can retire).
+  - Dark Souls - if you know, you know.
+  - Watching deep movies and reading deep books. Yeah, because I'm deep.
+  - I used to have a YouTube channel with solo comedy skits, though that's not online anymore.
+ 
+  ## Contact
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into
-our [Discord server](https://astro.build/chat).
+  I am deliberately not putting a lot of links into this file because I don't want them to go stale. You can find me on Linkedin. I should also not be that hard to Google. At the time of writing this, I liv ein Krakow, Poland.
