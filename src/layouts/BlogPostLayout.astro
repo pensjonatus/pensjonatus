@@ -16,6 +16,7 @@ const { frontmatter, slug, previous, next } = Astro.props;
     </div>
   </div>
   <slot />
+  <p class="posted-by">Posted by: Paweł Kowaluk</p>
   <hr />
   <BottomNav previous={previous} next={next} />
   <PostSaver client:load title={frontmatter.title} slug={slug} />
@@ -46,6 +47,12 @@ const { frontmatter, slug, previous, next } = Astro.props;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+  }
+
+  .posted-by {
+    text-align: right;
+    font-style: italic;
+    font-size: 90%;
   }
 
   hr {
