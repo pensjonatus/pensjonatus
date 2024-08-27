@@ -14,7 +14,7 @@ looking at the angel's face and body and was trying to determine the sex. For
 the first time in his life he understood what non-binary meant.
 
 The reverend was the first to wake out of stupor. He took a step forward and
-said: "Oh, hole messenger of the Lord. Are you here to give us a sign? To relay
+said: "Oh, holy messenger of the Lord. Are you here to give us a sign? To relay
 His Holy Will to us? Blessed be!"
 
 But the angel did not respond, only stood in the gesture of offering. And
@@ -26,7 +26,7 @@ cry.
 
 Slowly, the angel faded away, leaving only the babies behind.
 
-The church group, being good Christians, of course eventually picked the babes
+The church group, being good Christians, of course eventually picked the babies
 up off of the ground to take care of them. They organized a nursery at the
 church for the tiny little babies. They marveled at the angelic beauty of each
 and every one of them. Their count was seventy-one, which was not a particularly
@@ -36,7 +36,7 @@ would be revealed eventually, along with the purpose of these babies.
 It took the babies a few weeks to mature to a state where they could move around
 and speak. They were no bigger than the palm of one's hand, but they spoke all
 sorts of languages, human languages from all over the planet and possibly
-angelic ones, but maybe just dead human languages. Who could know that? At any
+angelic ones, or maybe just dead human languages. Who could know that? At any
 rate, they were not possible to be understood except for one who spoke English.
 
 The little sexless baby spoke about things without consequence or weight. It
@@ -53,11 +53,11 @@ Of course there was the usual human drama around the babies. Some new cults
 split from the church, and a reasonably large number of people tried to shoot up
 the nursery, although those people were swiftly struck down by invisible forces.
 Forces too swift to be mistaken for random heart attacks. So the attacks
-stopped, and all the kidnappings etc. were unsuccessful either, so they all
-stopped as well.
+stopped, and all the kidnappings etc. were unsuccessful too, so they all stopped
+as well.
 
-The matured enough to look like children ready for their bar or bat mitzvah, and
-then they suddenly faded away. People who witnessed their fading away said they
-smelled almonds in the air. Felt a wisp of warmth. Heard an old-forgotten melody
-in their heads. But that was it. And the babies faded into the regular faulty
-human memory and rampant misinformation.
+They matured enough to look like children ready for their bar or bat mitzvah,
+and then they suddenly faded away. People who witnessed their fading away said
+they smelled almonds in the air. Felt a wisp of warmth. Heard an old-forgotten
+melody in their heads. But that was it. And the babies faded into the regular
+faulty human memory and rampant misinformation.
