@@ -5,7 +5,7 @@ categories:
   - 'flash-fiction'
 ---
 
-Clem and his church group were protesting against abortion when an ange
+Clem and his church group were protesting against abortion when an angel
 appeared. It faded into existence in a halo of warm light and stood in the
 middle of the sidewalk with its arms spread, palms open, as if presenting a
 patch of the sidewalk as a holy offering. The church group stopped their
@@ -17,7 +17,7 @@ The reverend was the first to wake out of stupor. He took a step forward and
 said: "Oh, hole messenger of the Lord. Are you here to give us a sign? To relay
 His Holy Will to us? Blessed be!"
 
-But the angle did not respond, only stood in the gesture of offering. And
+But the angel did not respond, only stood in the gesture of offering. And
 slowly, as if shyly, the glow around him begot tiny little babies. They lay on
 the sidewalk, each no bigger than a thumb, dozens of them, cute and glowing and
 beautiful, in heaps that resembled bunches of grapes. They were moving lazily,
