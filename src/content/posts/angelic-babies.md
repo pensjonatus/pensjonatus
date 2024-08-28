@@ -5,15 +5,15 @@ categories:
   - 'flash-fiction'
 ---
 
-Clem and his church group were protesting against abortion when an angel
+The reverend and his church group were protesting against abortion when an angel
 appeared. It faded into existence in a halo of warm light and stood in the
 middle of the sidewalk with its arms spread, palms open, as if presenting a
 patch of the sidewalk as a holy offering. The church group stopped their
-chanting and stood there not really knowing what to do. Clem in particular was
-looking at the angel's face and body and was trying to determine the sex. For
-the first time in his life he understood what non-binary meant.
+chanting and stood there not really knowing what to do. The reverend in
+particular was looking at the angel's face and body and was trying to determine
+the sex. For the first time in his life he understood what non-binary meant.
 
-The reverend was the first to wake out of stupor. He took a step forward and
+The reverend was also the first to wake out of stupor. He took a step forward and
 said: "Oh, holy messenger of the Lord. Are you here to give us a sign? To relay
 His Holy Will to us? Blessed be!"
 
