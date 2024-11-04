@@ -25,11 +25,12 @@ the problem at hand. By being all that strong-smart, all that cunning business
 acumen, you get Crystals of Time. And I guess that gives you more time to think
 about how you can do your work more smart-like.
 
-So this guy Erdogan at work is really good with his work and he's got so many
-crystals that you can hardly ever see him work because he can afford it. Like, I
-have never seen him work, but I keep busy, so I might have missed it. Only that
-I'm sure he has more crystals than there are minutes in a day, so he can take
-the day off. In fact, I think he can take so much time off that would make rocks
-melt. How did he get so many? Now, if I share that with you, you will do the
-same and beat me to it. There's a limited number of Crystals of Time, and I
-don't want to miss my opportunity to get some. As soon as Erdogan frees some up.
+So this guy Jim Erglônd at work is really good with his work and he's got so
+many crystals that you can hardly ever see him work because he can afford it.
+Like, I have never seen him work, but I keep busy, so I might have missed it.
+Only that I'm sure he has more crystals than there are minutes in a day, so he
+can take the day off. In fact, I think he can take so much time off that would
+make rocks melt. How did he get so many? Now, if I share that with you, you will
+do the same and beat me to it. There's a limited number of Crystals of Time, and
+I don't want to miss my opportunity to get some. As soon as Jim Erglônd frees
+some up.
