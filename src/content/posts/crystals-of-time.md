@@ -9,7 +9,7 @@ We had this thing at work, called Crystals of Time, which I always thought
 should be called Time Crystals. But irregardless, they were these tokens which
 allowed you free time. Each Crystal of Time gave you one minute of free time.
 
-See, my work was not like yours where you go home and rest, and then come ack
+See, my work was not like yours where you go home and rest, and then come back
 another day. My work was all the time, except when you decided to use your free
 minutes. Each minute you spent not working, one of the sparkly Crystals of Time
 would stop glowing. When they were all dark, you better get back to work, or
