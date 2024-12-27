@@ -21,7 +21,7 @@
     "prettier": "^3.2.4",
     "typescript": "^5.3.3"
   },
-  "packageManager": "yarn@4.0.2",
+  "packageManager": "yarn@4.5.3",
   "devDependencies": {
     "@types/eslint": "^8",
     "@typescript-eslint/parser": "^6.20.0",

@@ -40,25 +40,6 @@ main {
   min-height: calc(100vh - 20px);
 }
 
-.header-with-image {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-}
-
-.header-image {
-  height: 300px;
-  width: 100%;
-  background-image: url(/sigh.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-html.dark .header-image {
-  background-image: url(/sigh-inverted.png);
-}
-
 .byline {
   font-style: italic;
 }
